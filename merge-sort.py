@@ -45,6 +45,6 @@ if __name__ == '__main__':
 
     print (list_to_sort)
 
-    ordered_list = merge_sort(list_to_sort)g
+    ordered_list = merge_sort(list_to_sort)
 
     print (ordered_list)
